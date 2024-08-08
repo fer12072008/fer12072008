@@ -1,16 +1,13 @@
-## Hi there 👋
+### bem vinda ao meu perfil 🐻
 
-<!--
-**fer12072008/fer12072008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é fernanada 
 
-Here are some ideas to get you started:
+- estou estudando na alura 
+- estou me desenvolvendo muito nos meus estudos
+- utilizo esse espaço para a organização e compartilhamento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo📫
+
+0001124553228sp@al.educacao.sp.gov.br
+
+
