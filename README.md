@@ -2,7 +2,8 @@
 
 meu nome é fernanada 
 
-- estou estudando na [alura](https
+- Estou estudando na [Alura](https://www.alura.com.br)
+
  
 - estou me desenvolvendo muito nos meus estudos
 - utilizo esse espaço para a organização e compartilhamento dos meus projetos
